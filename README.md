@@ -126,7 +126,7 @@ public class CountUpToN extends ConsoleProgram {
 ## Tracing Tables
 Tracing tables are used to verify a solution by stepping through code and tracking the variable values and output.
 
-A tracing table for **Example #3 **would look like this:
+A tracing table for **Example #3** would look like this:
 Let’s say the user entered 5 for `num`:
 | `num` | `counter` | `counter <= num` | output |
 | ----- | --------- | ---------------- | ------ |
